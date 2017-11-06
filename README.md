@@ -16,12 +16,12 @@ Time spent: **6** hours spent in total on setting up, **4 days** keeping the hon
 * Getting the json file command right
 * Resizing and restarting the mhn-admin server when it became full and stopped responding
 
-# Summary of the data collected: number of attacks, number of malware samples, etc.:
+## Summary of the data collected: number of attacks, number of malware samples, etc.:
 * dionaea the most of over 9.7k attacks followed by p0f and kippo
 * elastichoney had 5 attacks, while wordpot had none
 * Samples were buggy to collect
 
-# Any unresolved questions raised by the data collected:
+## Any unresolved questions raised by the data collected:
 * None
 
 <img src='http://i.imgur.com/0RJBgOw.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
